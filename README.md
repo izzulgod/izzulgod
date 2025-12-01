@@ -5,8 +5,7 @@
 ### About Me
 
 **Name:** Muhammad Izzul Fahmi Mustofa  
-**Role:** AI & Robotics Enthusiast  
-**Status:** Student & Innovator  
+**Role:** AI & Robotics Enthusiast    
 **Fun Fact:** I dream in Python 🐍 and wake up debugging C++ 💻
 
 ---
@@ -20,17 +19,6 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 ---
 
 ## 🛠️ Tech Arsenal
-
-### 💻 Languages & Frameworks
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</div>
-
 
 ### 🎯 Specialized Skills
 
