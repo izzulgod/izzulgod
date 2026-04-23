@@ -1,5 +1,5 @@
 ## Hey there! I'm IzzulGod 👋
 
-I am an **AI/ML Engineer** and **Robotics enthusiast** dedicated to bridging the gap between intelligent algorithms and real-world physical systems. My work focuses on fine-tuning Large Language Models (LLMs) for edge devices, computer vision integration, and building autonomous robotic frameworks using ROS2.
+I am an **AI/ML Engineer** and **Robotics enthusiast** on a chaotic quest to build a fully autonomous AI robot system. I spend my days trying to give machines a brain, and my nights wondering if they’ll eventually use it to judge my messy code.
 
-I am currently developing an **Autonomous LLM-Powered Robot Brain**, a project aimed at creating truly intelligent, offline-capable robots with multimodal perception. I am passionate about optimizing high-performance AI models on resource-constrained hardware and exploring the future of agentic robotics.
+Just look around, pretend you understand my repos, and star something you’ll never clone. Enjoy your stay… or don’t. Up to you.
