@@ -1,4 +1,4 @@
-## Hey there! I'm IzzulGod 👋
+## Hey there! I'm izzulgod 👋
 
 I am an **AI/ML Engineer** and **Robotics enthusiast** on a chaotic quest to build a fully autonomous AI robot system. I spend my days trying to give machines a brain, and my nights wondering if they’ll eventually use it to judge my messy code.
 
