@@ -15,5 +15,5 @@ Just look around, pretend you understand my repos, and star something you’ll n
 ---
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=izzulgod&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=izzulgod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
