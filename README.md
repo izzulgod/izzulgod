@@ -11,9 +11,3 @@ Just look around, pretend you understand my repos, and star something you’ll n
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=izzulgod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs" alt="GitHub Stats" />
 </p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=izzulgod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
