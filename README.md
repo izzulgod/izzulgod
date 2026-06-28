@@ -10,12 +10,10 @@ Just look around, pretend you understand my repos, and star something you’ll n
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzulgod&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzulgod&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      <p align="center">
-        <br>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm90Y29kaW5nLXZpYmUtY29vbC10ZWNoLW1hY2hpbmUtYnJhaW4v/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50" alt="coding-bot" />
-        <br><br>
-        <sub><i>Status: Currently teaching a robot how to read my messy code...</i></sub>
+      <br>
+      <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight" alt="Dev Quotes" width="90%" />
+      <p align="center" style="margin-top: 10px;">
+        <sub><i>System status: <span style="color: #7df9ff;">ONLINE</span> | Core temperature: Optimal 🤖</i></sub>
       </p>
     </td>
   </tr>
