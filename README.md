@@ -7,5 +7,9 @@ Just look around, pretend you understand my repos, and star something you’ll n
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izzulgod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
