@@ -12,8 +12,9 @@ Just look around, pretend you understand my repos, and star something you’ll n
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzulgod&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
       <p align="center">
-        <img src="https://raw.githubusercontent.com/RyanFitzgerald/devportfolio/master/src/assets/images/developer.svg" width="60" alt="coding-bot" />
         <br>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm90Y29kaW5nLXZpYmUtY29vbC10ZWNoLW1hY2hpbmUtYnJhaW4v/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50" alt="coding-bot" />
+        <br><br>
         <sub><i>Status: Currently teaching a robot how to read my messy code...</i></sub>
       </p>
     </td>
