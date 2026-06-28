@@ -6,8 +6,14 @@ Just look around, pretend you understand my repos, and star something you’ll n
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzulgod&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" height="195" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=izzulgod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="195" align="right" />
-</p>
-<br clear="all" />
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" style="padding-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzulgod&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" height="165" />
+      <br /><br />
+    </td>
+    <td valign="top" style="padding-left: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=izzulgod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+    </td>
+  </tr>
+</table>
