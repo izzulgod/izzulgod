@@ -5,5 +5,5 @@ I am an **AI/ML Engineer** and **Robotics enthusiast** on a chaotic quest to bui
 Just look around, pretend you understand my repos, and star something you’ll never clone. Enjoy your stay… or don’t. Up to you.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzulgod&theme=radical&show_icons=true&locale=id" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzulgod&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" />
 </p>
